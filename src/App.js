@@ -23,7 +23,7 @@ class App extends Component {
 				type: "bar",
 				dataPoints: [
 					{ y:  2200000000, label: "Facebook" },
-					{ y:  1800000000, label: "YouTube" },
+					{ y:  1800000000, label: "YodfghgfduTube" },
 					{ y:  800000000, label: "Instagram" },
 					{ y:  563000000, label: "Qzone" },
 					{ y:  376000000, label: "Weibo" },
